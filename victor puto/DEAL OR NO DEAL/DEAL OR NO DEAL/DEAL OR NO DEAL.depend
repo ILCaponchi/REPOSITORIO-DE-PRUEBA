@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1471624510 source:c:\users\pc01\desktop\deal or no deal\deal or no deal\main.cpp
+	"Cabeceras.h"
+
+1471629328 c:\users\pc01\desktop\deal or no deal\deal or no deal\cabeceras.h
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+
+1471625327 source:c:\users\pc01\desktop\deal or no deal\deal or no deal\funciones.cpp
+	"Cabeceras.h"
+
